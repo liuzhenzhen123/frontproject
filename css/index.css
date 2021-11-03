@@ -1,0 +1,72 @@
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+       .contentBox{
+	 	  width: 96%;
+	 	  height: 70%;
+	 	  margin: 0 auto;
+	 	  padding-top: 0.5rem;
+		 
+	 	  
+	 }
+    .box {
+      width: 100%;
+	  height: 38.65625rem;
+    /*  height: 41.6875rem; */
+      background: url(../img/fabg.png);
+      background-size: cover;
+    
+    }
+	.img{
+		width: 85%;
+		height: 15rem;
+		margin: 0 auto;
+		
+	}
+	.img img{
+		width: 100%;
+		height: 100%;
+	}
+	.submit{
+		  width: 10rem;
+		  height: 3rem;
+		  margin: 0 auto;
+		 margin-top: 31rem;
+	}
+	.submit  img{
+		  width: 100%;
+		  height: 100%;
+	}
+	
+	.bottom{
+		width: 100%;
+		height: 3.0625rem;
+		position: fixed;
+		bottom: 0;
+		background: #fff;
+		border: 0.0625rem  solid  #E0E0E0;
+		
+	}
+	.bottombox{
+		width: 75%;
+		margin: 0 auto;
+		height: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		text-align: center;
+		color: #666666;
+		font-size: 0.6875rem;
+	}
+	.bottomimg{
+		width: 1.25rem;
+		height: 1.25rem;
+		margin-bottom:0.25rem;
+		
+	}
+	.bottomimg  img{
+		width: 100%;
+		height: 100%;
+	}
